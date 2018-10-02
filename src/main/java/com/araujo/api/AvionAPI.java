@@ -1,4 +1,4 @@
-package com.mitocode.api;
+package com.araujo.api;
 
 public class AvionAPI {
 

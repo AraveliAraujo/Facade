@@ -1,7 +1,7 @@
-package com.mitocode.facade;
+package com.araujo.facade;
 
-import com.mitocode.api.AvionAPI;
-import com.mitocode.api.HotelAPI;
+import com.araujo.api.AvionAPI;
+import com.araujo.api.HotelAPI;
 
 public class CheckFacade {
 
